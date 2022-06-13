@@ -10,7 +10,7 @@ portugese text
 ## OUTPUT
 English text 
 
-# METHOD
+## METHOD
 The input text is preprocessed and then passed to an encoder transformer. The output of this transformer is then passed to a decoder transformer that produces the final output
 of the model.
 
